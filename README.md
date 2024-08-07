@@ -1,6 +1,6 @@
 # HR Analytics Dashboard using Power Bi
 
-![Designer](https://github.com/user-attachments/assets/92b30ed8-6997-417a-a272-0af02911732f)
+![Designer (2)](https://github.com/user-attachments/assets/5983edb6-992e-44a6-bc0d-3c750dc80eb8)
 
 # Project Title - HR Analytics Data Analysis
 
@@ -34,11 +34,11 @@ Additionally, the Dashboard boasts a Distinctive Feature allowing users to Seaml
 
 # 🚀 Project Goal
 
-To Elucidate Complex Patterns and Trends within Spotify's Extensive Dataset, delivering Actionable Insights through an Elegantly Engineered Analytical Dashboard.
+To Deliver a Sophisticated Tool for Analyzing HR Attrition Data, enabling Organizations to gain Nuanced Insights into Employee Turnover, Job Satisfaction and Engagement Trends.
 
 # Project Motivation
 
-Driven by a Deep-seated Fascination with Spotify's Transformative Role in Reshaping Musical Engagement, this Project seeks to Unravel the Nuanced Dynamics of its Global Listening Phenomena.
+Driven by a Deep Curiosity to Unravel the Complexities of Workforce Dynamics and a Commitment to Advancing Career Growth in HR Analytics, this Project aims to Enhance Strategic Decision-making and Organizational Success.
 
 # ⏳ Dataset
 
