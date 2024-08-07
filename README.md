@@ -44,48 +44,63 @@ Driven by a Deep Curiosity to Unravel the Complexities of Workforce Dynamics and
 
 The HR Analytics Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16519099/Raw.Data.xlsx)
+- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16530788/Raw.Data.xlsx)
 
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Track Name : Name of the Music Track.🎵
-- Artist(s) Name : Name(s) of the Artist(s) who Performed the Track.🎤
-- Artist_Count : Number of Distinct Artists involved in the Track.👥
-- Released Year : Year the Track was Released.📅
-- Released Month: Month the Track was Released.📅
-- Released Day : Day the Track was Released.📅
-- In Spotify Playlists : Number of Spotify Playlists featuring the Track.🎧
-- In Spotify Charts : Chart Position of the Track on Spotify.📈
-- Streams : Number of Times the Track has been Streamed.🔊
-- In Apple Playlists : Number of Apple Music Playlists featuring the Track.🎵
-- In Apple Charts : Chart Position of the Track on Apple Music.📈
-- In Deezer Playlists : Number of Deezer Playlists featuring the Track.🎵
-- In Deezer Charts : Chart Position of the Track on Deezer.📈
-- In Shazam Charts : Chart  Position of the Track on Shazam.📈
-- Bpm : Beats per Minute of the Track.🕒
-- Key : Musical Key of the Track.🎶
-- Mode : Musical Mode of the Track.🎵
-- Danceability % : Percentage Indicating how Suitable the Track is for Dancing.💃
-- Valence % : Percentage Representing the Track's Musical Positiveness.😊
-- Energy % : Percentage Indicating the Track's Energy Level.⚡
-- Acousticness % : Percentage of the Track that is Acoustic.🎸
-- Instrumentalness % : Percentage of the Track that is Instrumental.🎻
-- Liveness %: Percentage Representing the Track's Live Performance Quality.🎤
-- Speechiness % : Percentage Indicating the Presence of Spoken Words in the Track.🗣️
-- Cover Url : URL of the Track’s Cover Image.🖼️
+- Emp ID : Unique Identifier assigned to Each Employee.🆔
+- Age : The Current Age of the Employee.📅
+- Age Group : Classification of Employees into Age Brackets.🧓👩‍🦳👨‍🦲
+- Attrition : Status Indicating whether an Employee has left the Company.🚪
+- Business Travel : Frequency of Travel required for the Job.✈️
+- Daily Rate : Amount Paid to an Employee per Day.💵
+- Department : Division or Team within the Company.🏢
+- Distance From Home : Distance an Employee Travels from their Home to Work.🏠➡️🏢
+- Education : Level of Formal Schooling Achieved by the Employee.🎓
+- Education Field : Area of Study or Specialization in Education.📚
+- Employee Count : Number of Employees in a Particular Group or Department.👥
+- Employee Number : A Distinct Number assigned to each Employee.🔢
+- Environment Satisfaction : Employee’s Satisfaction with their Work Environment.😊🏢
+- Gender : Gender of the Employee.🚻
+- Hourly Rate : Pay Rate per Hour of Work.⏱️💰
+- Job Involvement : Employee’s Level of Engagement and Commitment to their Job.🔄
+- Job Level : Hierarchical Level of the Employee within the Company.🏅
+- Job Role : The Specific Position or Function an Employee Performs.🧑‍💼
+- Job Satisfaction : Employee’s Overall Satisfaction with their Job.👍
+- Marital Status : Current Marital Status of the Employee.💍
+- Monthly Income : Total Income Earned by the Employee per Month.📈
+- Salary Slab : Classification of Salary Ranges.💸
+- Monthly Rate : Regular Monthly pay Rate for the Employee.🗓️💵
+- No of Companies Worked : Total Number of Companies an Employee has Worked for.🏢🔢
+- Over 18 : Indicates whether the Employee is over 18 Years Old.✅
+- Over Time : The Amount of Extra Hours worked beyond the Regular Schedule.⏳
+- Percent Salary Hike : Percentage Increase in Salary over a Period.📊📈
+- Performance Ratings : Evaluation Scores of the Employee’s Job Performance.⭐
+- Relationship Satisfaction : Level of Satisfaction with Work Relationships.🤝
+- Standard Hours : The Typical Number of Hours an Employee is Expected to Work.🕒
+- Stock Option Level : The Level of Stock Options granted to the Employee.📈💼
+- Total Working Years : Total Number of Years an Employee has Worked.🗓️👤
+- Training Times Last Year : Number of Training Sessions attended in the Past Year.📚
+- Work Life Balance : The Balance between Work Responsibilities and Personal Life.⚖️
+- Years At Company : Number of Years an Employee has been with the Company.📆
+- Years In Current Role : Duration the Employee has held their Current Position.🕰️
+- Years Since Last Promotion : Time Elapsed since the Employee’s Last Promotion.📈🏆
+- Years With Current Manager : Duration the Employee has worked under their Current Manager.🧑‍💼👥
 
 # Requirement
 
-- ✅ Total Tracks🎵
-- ✅ Total Streams🎶
-- ✅ Average Streams🎶
-- ✅ Stream by Release Date📅
-- ✅ Tracks and Stream by Month📅
-- ✅ Daily Streams.🎧
-- ✅ Artist Most Streamed Track👥
-- ✅ Top 5 Most Streamed Tracks🎤🎻🎵🎸
+- ✅ Total Employees👥
+- ✅ Attrition
+- ✅ Average Years at Company
+- ✅ Attrition Rate📈
+- ✅ Average Salary💰
+- ✅ Average Age
+- ✅ Attrition by Years at Company
+- ✅ Attrition by Age Group
+- ✅ Attrition by Education Field
+- ✅ Job Satisfication Ratings ⭐⭐⭐⭐⭐
 
 
 # ✅ Installation : ETL Tools ✅
@@ -105,24 +120,30 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
-![Dashboard](https://github.com/user-attachments/assets/c9be2ff0-359d-4f72-87f2-1ff782bde728)
+![Dashboard 1](https://github.com/user-attachments/assets/ecf4ecbf-8875-4580-97cd-8dd285457ba2)
+![Dashboard 2](https://github.com/user-attachments/assets/1a81b547-24cc-4475-aeb2-c9478a40a2fe)
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Tracks🎧, Date📅 and Artists👥. 
+
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Gender👩🏻🧑🏻 and Department🏬. 
 
 This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
-![Analysis 1](https://github.com/user-attachments/assets/5ee35659-00d5-4968-81da-c35aac25fd37)
+![Analysis 1](https://github.com/user-attachments/assets/c95cddfc-b698-47c4-a579-fa0f2ae11de3)
 
 This Illustrates the Analysis of 5th Most Streamed Track.📍
-![Analysis 2](https://github.com/user-attachments/assets/7801a8fa-aa86-4547-b6f6-2c9fe64b495a)
+![Analysis 2](https://github.com/user-attachments/assets/8e56caab-75a8-409d-af2b-f79d505e8c21)
 
 This Illustrates the Analysis of Track with the Name "Shivers".📍
-![Analysis 3](https://github.com/user-attachments/assets/4cc20222-ea3f-4b11-915a-fc77223a5bc7)
+![Analysis 3](https://github.com/user-attachments/assets/15e027a0-c2a5-4bd6-b9ec-61b3dab84220)
 
 This Illustrates the Analysis of Artist with the Name "Justin Bieber".📍
-![Analysis 4](https://github.com/user-attachments/assets/237a3fdd-f4ea-44ca-8ba1-640f9b8266ed)
+![Analysis 4](https://github.com/user-attachments/assets/8def8303-cc00-43fb-90a8-a91ace115a16)
 
 This Illustrates the Analysis of Artist with the Name "Imagine Dragons".📍
-![Analysis 5](https://github.com/user-attachments/assets/a3bf10fd-3012-43f0-a4f0-f542b1a94c91)
+![Analysis 5](https://github.com/user-attachments/assets/6e8cf32d-a300-45f9-8e52-7b0d483edff0)
+![Analysis 6](https://github.com/user-attachments/assets/865b93b1-def6-41cc-bcd4-48a4cf2bc536)
+![Analysis 7](https://github.com/user-attachments/assets/7d43f3d3-9aa9-41ba-bd6b-df74cd334ae9)
+![Analysis 8](https://github.com/user-attachments/assets/2072767c-6f32-48c0-8b25-6d367eafbed5)
+![Analysis 9](https://github.com/user-attachments/assets/023173b1-76cc-4d05-a2f2-783e63bb99f4)
 
 # Author 🙎‍♀️  
 
