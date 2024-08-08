@@ -1,8 +1,8 @@
-# HR Analytics Dashboard using Power Bi
+# HR Attrition Analytics Dashboard using Power Bi
 
 ![Designer (2)](https://github.com/user-attachments/assets/5983edb6-992e-44a6-bc0d-3c750dc80eb8)
 
-# Project Title - HR Analytics Data Analysis
+# Project Title - HR Attrition Data Analysis
 
 - This Repository offers an Intricate and Comprehensive Analysis of HR Analytics Data.
 - By Harnessing this Project, we can reveal Profound Insights and make Discerning Decisions.
