@@ -1,4 +1,4 @@
-# HR Attrition Analytics Dashboard using Power Bi
+# HR Attrition Dashboard using Power Bi
 
 ![Designer (2)](https://github.com/user-attachments/assets/5983edb6-992e-44a6-bc0d-3c750dc80eb8)
 
