@@ -120,29 +120,40 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
+- Light Theme🌤️
 ![Dashboard 1](https://github.com/user-attachments/assets/ecf4ecbf-8875-4580-97cd-8dd285457ba2)
+
+- Dark Theme🌙
 ![Dashboard 2](https://github.com/user-attachments/assets/1a81b547-24cc-4475-aeb2-c9478a40a2fe)
 
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Gender👩🏻🧑🏻 and Department🏬. 
 
-This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
+This Illustrates the Analysis of "Female" Employees.📍
 ![Analysis 1](https://github.com/user-attachments/assets/c95cddfc-b698-47c4-a579-fa0f2ae11de3)
 
-This Illustrates the Analysis of 5th Most Streamed Track.📍
+This Illustrates the Analysis of "Male" Employees.📍
 ![Analysis 2](https://github.com/user-attachments/assets/8e56caab-75a8-409d-af2b-f79d505e8c21)
 
-This Illustrates the Analysis of Track with the Name "Shivers".📍
+This Illustrates the Analysis of Employees at the Age Group "26-35".📍
 ![Analysis 3](https://github.com/user-attachments/assets/15e027a0-c2a5-4bd6-b9ec-61b3dab84220)
 
-This Illustrates the Analysis of Artist with the Name "Justin Bieber".📍
+This Illustrates the Analysis of Employees at the Age Group "46-55".📍
 ![Analysis 4](https://github.com/user-attachments/assets/8def8303-cc00-43fb-90a8-a91ace115a16)
 
-This Illustrates the Analysis of Artist with the Name "Imagine Dragons".📍
+This Illustrates the Analysis of Employees with their Education Field as "Life Sciences".📍
 ![Analysis 5](https://github.com/user-attachments/assets/6e8cf32d-a300-45f9-8e52-7b0d483edff0)
+
+This Illustrates the Analysis of Employees with their Education Field as "Others".📍
 ![Analysis 6](https://github.com/user-attachments/assets/865b93b1-def6-41cc-bcd4-48a4cf2bc536)
+
+This Illustrates the Analysis of Employees of "Human Resource" Department.📍
 ![Analysis 7](https://github.com/user-attachments/assets/7d43f3d3-9aa9-41ba-bd6b-df74cd334ae9)
+
+This Illustrates the Analysis of Employees of "Research" Department.📍
 ![Analysis 8](https://github.com/user-attachments/assets/2072767c-6f32-48c0-8b25-6d367eafbed5)
+
+This Illustrates the Analysis of Employees of "Sales" Department.📍
 ![Analysis 9](https://github.com/user-attachments/assets/023173b1-76cc-4d05-a2f2-783e63bb99f4)
 
 # Author 🙎‍♀️  
