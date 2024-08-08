@@ -84,10 +84,10 @@ When we examine the Data, we observe a number of Different Columns.
 - Total Working Years : Total Number of Years an Employee has Worked.🗓️👤
 - Training Times Last Year : Number of Training Sessions attended in the Past Year.📚
 - Work Life Balance : The Balance between Work Responsibilities and Personal Life.⚖️
-- Years At Company : Number of Years an Employee has been with the Company.📆
-- Years In Current Role : Duration the Employee has held their Current Position.🕰️
-- Years Since Last Promotion : Time Elapsed since the Employee’s Last Promotion.📈🏆
-- Years With Current Manager : Duration the Employee has worked under their Current Manager.🧑‍💼👥
+- Years at Company : Number of Years an Employee has been with the Company.📆
+- Years in Current Role : Duration the Employee has held their Current Position.🕰️
+- Years since Last Promotion : Time Elapsed since the Employee’s Last Promotion.📈🏆
+- Years with Current Manager : Duration the Employee has worked under their Current Manager.🧑‍💼👥
 
 # Requirement
 
@@ -150,7 +150,7 @@ This Illustrates the Analysis of Employees with their Education Field as "Others
 This Illustrates the Analysis of Employees of "Human Resource" Department.📍
 ![Analysis 7](https://github.com/user-attachments/assets/7d43f3d3-9aa9-41ba-bd6b-df74cd334ae9)
 
-This Illustrates the Analysis of Employees of "Research" Department.📍
+This Illustrates the Analysis of Employees of "Research and Development" Department.📍
 ![Analysis 8](https://github.com/user-attachments/assets/2072767c-6f32-48c0-8b25-6d367eafbed5)
 
 This Illustrates the Analysis of Employees of "Sales" Department.📍
